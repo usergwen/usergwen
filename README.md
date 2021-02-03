@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usergwen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=usergwen&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=usergwen&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
