@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 [![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=usergwen&show_icons=true&hide=stars,prs,contribs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gwen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=usergwen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Gwen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=usergwen)](https://github.com/anuraghazra/github-readme-stats)
 
 
