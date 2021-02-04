@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! Welcome to my github! </h2>
 <p align="center">
   <a href="https://github.com/usergwen"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
-  <a href="https://usergwen.github.io/"><img src="https://img.shields.io/twitter/url?label=blog" alt="blog"></a>
+  <a href="https://usergwen.github.io/"><img src="https://img.shields.io/endpoint?url=https://usergwen.github.io" alt="blog"></a>
 </p>
 
 😃**编程语言** Python
