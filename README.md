@@ -1,14 +1,11 @@
 <h2 align="center">👋 Hello! Welcome to my github! </h2>
 <p align="center">
-  <a href="https://github.com/eternidad33"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
-  <a href="https://gitee.com/eternidad33"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
-  <a href="https://blog.csdn.net/qq_42907802"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
+  <a href="https://github.com/usergwen"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
+  <a href="https://usergwen.github.io/"><img src="https://img.shields.io/twitter/url?label=blog" alt="blog"></a>
 </p>
 
-<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">
-
-- 😃**编程语言** Python
-- 😃**目前职业** SDET
+😃**编程语言** Python
+😃**目前职业** SDET
 
 ## 📊 Wakatime in week
 
