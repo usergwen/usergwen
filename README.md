@@ -3,8 +3,9 @@
   <a href="https://github.com/usergwen"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
 </p>
 
-😃**编程语言** Python
-😃**目前职业** SDET
+😃**Programming language** Python
+
+😃**Current occupation** SDET
 
 ## 📊 Wakatime in week
 
@@ -17,9 +18,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 
-
-**🙏顺利上岸**
+## 🙏 Psychological comfort
 
 ```
                                  _                                  
