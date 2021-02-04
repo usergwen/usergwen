@@ -3,9 +3,9 @@
   <a href="https://github.com/usergwen"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
 </p>
 
-😃**Programming language** Python
+😃**Programming language** : Python
 
-😃**Current occupation** SDET
+😃**Current occupation** : SDET
 
 ## 📊 Wakatime in week
 
