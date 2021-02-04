@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--
 - Github Stats Card
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usergwen&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usergwen&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=usergwen&show_icons=true&hide=stars,prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=usergwen&show_icons=true&hide=stars,prs,contribs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gwen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=usergwen)](https://github.com/anuraghazra/github-readme-stats)
+[![Gwen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=usergwen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
