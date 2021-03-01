@@ -11,8 +11,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python     8 hrs 45 mins   ███████████████████████▒░   93.95 % 
-Markdown   33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Python     6 hrs 56 mins   ████████████████████████░   95.75 % 
+Markdown   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 <!--END_SECTION:waka-->
 
