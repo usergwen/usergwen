@@ -11,9 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python     1 hr 45 mins    ██████████████████████▒░░   89.82 % 
-YAML       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
