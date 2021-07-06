@@ -3,13 +3,13 @@
   <a href="https://github.com/usergwen"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
 </p>
 
-### My desc.
+### About me.
 
-😃 **Programming language** : Python
+😃 **Programming language** : Python, Bash, SQL, Java, Javascript, etc...
 
 😃 **Current occupation** : SDET
 
-### Wakatime in week
+### Wakatime in week.
 
 <!--START_SECTION:waka-->
 ```text
@@ -18,8 +18,8 @@ Other    2 mins          █▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+### Github Stats.
 <details open>
- <summary> --> <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=usergwen&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
