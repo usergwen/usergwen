@@ -5,9 +5,9 @@
 
 ### About me.
 
-😃 **Programming language** : Python, Bash, SQL, Java, Javascript, etc...
+1. **Programming language** : Python, Bash, SQL, Java, Javascript, etc...
 
-😃 **Current occupation** : SDET
+2. **Current occupation** : SDET
 
 ### Wakatime in week.
 
@@ -19,13 +19,12 @@ Other    2 mins          █▓░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Github Stats.
-<details open>
+
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=usergwen&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=usergwen&theme=calm&hide_border=true">
 </p>
-</details>
 
 
 
