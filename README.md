@@ -5,10 +5,10 @@
 
 ### About me.
 
-1. **Programming language** : Python, Bash, SQL, Java, Javascript, etc...
-
-2. **Current occupation** : SDET
-
+```Plain Text
+Programming language : Python, Bash, SQL, Java, Javascript, etc...
+Current occupation : SDET
+```
 ### Wakatime in week.
 
 <!--START_SECTION:waka-->
