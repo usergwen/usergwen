@@ -13,7 +13,7 @@ Current occupation : SDET
 
 <!--START_SECTION:waka-->
 ```text
-Python   17 mins         ████████████████████░░░░░   80.22 % 
-C        3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+C        20 mins         █████████████░░░░░░░░░░░░   51.96 % 
+Python   17 mins         ███████████░░░░░░░░░░░░░░   44.49 % 
 ```
 <!--END_SECTION:waka-->
