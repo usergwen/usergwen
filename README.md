@@ -13,8 +13,9 @@ Current occupation : SDET
 
 <!--START_SECTION:waka-->
 ```text
-Python       6 hrs 1 min     ████████████████████▓░░░░   82.89 % 
-Markdown     1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python       8 hrs 29 mins   █████████████████████▒░░░   85.26 % 
+Markdown     1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
