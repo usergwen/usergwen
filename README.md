@@ -13,10 +13,10 @@ Current occupation : SDET
 
 <!--START_SECTION:waka-->
 ```text
-Python       4 hrs 19 mins   ████████████████████▓░░░░   82.88 % 
-YAML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Python       4 hrs 38 mins   █████████████████████░░░░   83.88 % 
+YAML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 <!--END_SECTION:waka-->
