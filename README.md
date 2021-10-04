@@ -13,9 +13,6 @@ Current occupation : SDET
 
 <!--START_SECTION:waka-->
 ```text
-Python       3 hrs 42 mins   ██████████████████████▓░░   90.75 % 
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Python   32 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
