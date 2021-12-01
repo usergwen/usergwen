@@ -13,7 +13,8 @@ Current occupation : SDET
 
 <!--START_SECTION:waka-->
 ```text
-JSON       1 hr 23 mins    ████████████████████▒░░░░   81.03 % 
-YAML       18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 
+JSON       1 hr 32 mins    ██████████████████▓░░░░░░   74.69 % 
+YAML       21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Bash       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
 <!--END_SECTION:waka-->
