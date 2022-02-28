@@ -12,7 +12,9 @@ Current occupation : SDET
 ### Wakatime in week.
 
 <!--START_SECTION:waka-->
+
 ```text
-JSON   6 mins          █████████████████████████   100.00 % 
+JSON   6 mins          █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
