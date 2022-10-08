@@ -14,10 +14,8 @@ Current occupation : SDET
 <!--START_SECTION:waka-->
 
 ```text
-Java         8 hrs 27 mins   ███████████████████████░░   92.50 %
-SQL          36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Java   3 hrs 53 mins   ████████████████████████▓   98.30 %
+XML    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
