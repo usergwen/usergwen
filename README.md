@@ -14,7 +14,12 @@ Current occupation : SDET
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java         4 hrs 14 mins   ████████████████████████░   96.42 %
+Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
