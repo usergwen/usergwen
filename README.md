@@ -14,10 +14,10 @@ Current occupation : SDET
 <!--START_SECTION:waka-->
 
 ```text
-Java             46 mins         ████████████████░░░░░░░░░   63.35 %
-Markdown         25 mins         ████████▓░░░░░░░░░░░░░░░░   34.96 %
-XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java             1 hr 35 mins    ████████████████████▒░░░░   80.74 %
+Markdown         21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
