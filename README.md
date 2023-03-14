@@ -14,7 +14,7 @@ Current occupation : SDET
 <!--START_SECTION:waka-->
 
 ```text
-Java   55 mins         █████████████████████████   100.00 %
+Java   1 hr 56 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
