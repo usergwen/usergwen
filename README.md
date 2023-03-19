@@ -6,7 +6,7 @@
 ### About me.
 
 ```Plain Text
-Programming language : Python, Bash, SQL, Java, Javascript, etc...
+Programming language : Java, Python
 Current occupation : SDET
 ```
 ### Wakatime in week.
