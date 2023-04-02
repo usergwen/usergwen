@@ -14,10 +14,8 @@ Current occupation : SDET
 <!--START_SECTION:waka-->
 
 ```text
-YAML         54 mins         ███████████████████▒░░░░░   77.54 %
-Java         14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Java   14 mins         █████████████████████████   99.72 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
