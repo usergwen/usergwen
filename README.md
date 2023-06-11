@@ -14,7 +14,8 @@ Current occupation : SDET
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C      5 mins          ██████████████████████▓░░   91.04 %
+JSON   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
 ```
 
 <!--END_SECTION:waka-->
