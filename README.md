@@ -14,7 +14,8 @@ Current occupation : SDET
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          █████████████████████████   100.00 %
+JSON         0 secs          ███████████████████████▓░   95.09 %
+JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 ```
 
 <!--END_SECTION:waka-->
