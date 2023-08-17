@@ -14,7 +14,8 @@ Current occupation : SDET
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML       59 mins         ████████████████████████▒   97.67 %
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
