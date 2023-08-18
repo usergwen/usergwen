@@ -14,8 +14,9 @@ Current occupation : SDET
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       59 mins         ████████████████████████▒   97.67 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+YAML       1 hr 22 mins    ███████████████████▒░░░░░   77.66 %
+Siyuan     21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
