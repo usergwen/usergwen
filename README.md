@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👋 hey there </h1>
 
 ###
 
@@ -55,7 +55,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 
-### Wakatime in week.
+### 
+<h3 align="left">⌛   Wakatime in week: </h3>
 
 <!--START_SECTION:waka-->
 
