@@ -41,9 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       23 mins         ████████████▓░░░░░░░░░░░░   51.11 %
-Siyuan     21 mins         ███████████▓░░░░░░░░░░░░░   47.14 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
