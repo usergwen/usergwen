@@ -14,11 +14,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language </h3>
 
 ###
 
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=usergwen&theme=default)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=usergwen)](https://github.com/usergwen/github-readme-profile)
 
 
 ### 
