@@ -1,20 +1,6 @@
 ###
 
-<br clear="both">
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I'm a test development engineer.<br>- 📚 I'm currently learning algorithm and Ai.<br>- ⚡ In my free time I learning philosophy.</p>
-
-###
-
-<h3 align="left">🛠 Language </h3>
+<h3 align="left">🛠 Info </h3>
 
 ###
 
